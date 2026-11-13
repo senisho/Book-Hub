@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "homepage": "https://senisho.github.io/Book-Hub/",
     "bootstrap": "^5.3.9",
     "react-router-dom": "^7.18.5"
   }
