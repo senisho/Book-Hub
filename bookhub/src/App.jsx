@@ -3,7 +3,6 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import BookDetails from "./pages/BookDetails";
 import Categories from "./pages/Categories";
-import ReadingList from "./pages/ReadingList";
 
 function App() {
   return (
@@ -16,7 +15,6 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/book/:id" element={<BookDetails />} />
           <Route path="/categories" element={<Categories />} />
-          <Route path="/reading-list" element={<ReadingList />} />
           {/* path="*" matches any URL not listed above */}
           <Route path="*" element={<h2>Page not found</h2>} />
         </Routes>
