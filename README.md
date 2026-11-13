@@ -91,7 +91,7 @@ You should see output similar to:
 
 VITE vX.X.X ready in XXX ms
 
-➜ Local: http://localhost:5173/
+➜ Local:  http://localhost:4173/bookhub/
 
 Open the displayed URL in your browser.
 
